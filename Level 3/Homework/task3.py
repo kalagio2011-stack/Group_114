@@ -1,0 +1,10 @@
+user_name=input("please entren your name: ")
+user_age=int(input("please enter your age: "))
+user_work=input("please enter your work: ")
+user_fav_country=input("please enter your favorite country: ")
+user_goal=input("please enter your goal: ")
+
+print("my name is",user_name)
+print("i am",user_age,"years old")
+print("my dead profesion is",user_work)
+print("i want to live in",user_fav_country)
