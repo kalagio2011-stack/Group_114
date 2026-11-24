@@ -34,7 +34,7 @@ reversed_list = []
 a = 9
 
 while a >= 0:
-    reversed_list.appened(mixed_list[a])
+    reversed_list.append(mixed_list[a])
     a = a - 1
     
 print(reversed_list)
